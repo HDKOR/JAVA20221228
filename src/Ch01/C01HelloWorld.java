@@ -10,6 +10,7 @@ public class C01HelloWorld // 클래스 영역- 객체지향문법 적용단위
 	{
 		
 		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
 	}
 
 }
